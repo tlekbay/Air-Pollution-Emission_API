@@ -1,0 +1,29 @@
+.bg-1 {
+  background: #198754;
+}
+.bg-2 {
+  background: #ffc107;
+}
+.bg-3 {
+  background: #fd7e14;
+}
+.bg-4 {
+  background: #dc3545;
+}
+.bg-5 {
+  background: #6f42c1;
+}
+.bg-6 {
+  background: #842029;
+}
+
+.iaqi{
+  border: 1px solid #495057;
+  border-radius: 0.375rem;
+  padding: .375rem .75rem;
+  color: white;
+}
+
+.datablock-container{
+  width: 300px;
+}
